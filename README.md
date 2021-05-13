@@ -27,4 +27,6 @@ Em seguida à verificação do valor investido, a execução entra na chamada do
 
 **Como executar o código:** 
 
+Primeiramente é necessário guardar os dois cógidos fonte na mesma pasta para que façam parte do mesmo pacote pois são duas classes diferentes.
+
 Para executar o código, basta entrar no diretório em que a pasta contendo as duas classes foi salva, por meio da linha de comando, compilar o arquivo Projeto.java com o comando “javac Projeto.java” e executar Projeto com o comando “java Projeto”. Assim que tiver início, o usuário vizualizará os primeiros comandos para inserir seus dados e iniciar seu cadastro. 
